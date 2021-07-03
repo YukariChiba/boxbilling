@@ -9,6 +9,8 @@
 * License:  LGPL                                                               *
 *******************************************************************************/
 
+require_once("ttfonts.php");
+
 define('tFPDF_VERSION','1.32');
 
 class tFPDF
